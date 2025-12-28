@@ -1,7 +1,7 @@
 # 📊 Data Collection Project (Python)
 
 This repository contains a **Python-based data collection project** focused on gathering, organizing, and preparing data for further analysis.  
-It is designed for **beginners and students** who want to understand the fundamentals of data collection before moving into data analytics or data science.
+It is designed to understand the fundamentals of data collection before moving into data analytics or data science.
 
 ---
 
